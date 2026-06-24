@@ -1,7 +1,8 @@
+
 # CDISC ADaM Simulated Clinical Trial Analysis
 
 This repository contains a complete educational Jupyter notebook demonstrating a CDISC-style clinical programming workflow using simulated clinical trial data.
-
+<img width="1536" height="1024" alt="CDISC:ADaM Clinical Trial Data Flow   Analysis Workflow" src="https://github.com/user-attachments/assets/e04a7b76-dba2-4767-adcb-c2d34ad175db" />
 ## Project overview
 
 The notebook simulates a two-arm hypertension cardiovascular-risk clinical trial and demonstrates the end-to-end transformation of source-like raw clinical datasets into CDISC-like SDTM domains, ADaM-like analysis datasets, and clinical reporting outputs.
